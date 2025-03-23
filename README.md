@@ -1,5 +1,9 @@
 # AI Travel Planning Assistant
 
+Hugging Face Link
+   ```sh
+   https://huggingface.co/spaces/RajGMore/aitrip_one
+   ```
 ## Overview
 The **AI Travel Planning Assistant** is a Streamlit-based web application that utilizes AI agents to help users plan their trips. The app takes user preferences such as travel type, interests, budget, and duration, then generates an optimized itinerary using Groq's LLaMA model.
 
